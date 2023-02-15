@@ -22,7 +22,11 @@ All python notebook files with prefix `pagsspythonintro` are based on another on
 
 `data`: Directory containing data files to be used with `pagsspythonintro2.ipynb` and `pagsspythonintro3.ipynb`.
 
-`supplemental-notebooks`: Directory containing supplemental introductory python notebooks. Supplemental notebooks authored by Ben Flaggs ([@bflaggs](https://github.com/bflaggs)) and proofread by Cameron Frank ([@CameronPhysophy](https://github.com/CameronPhysophy)) 
+`supplemental-notebooks`: Directory containing supplemental introductory python notebooks. Supplemental notebooks authored by Ben Flaggs ([@bflaggs](https://github.com/bflaggs)) and proofread by Cameron Frank ([@CameronPhysophy](https://github.com/CameronPhysophy)).
+
+----
+
+**Note**: This repo is still a work in progress, with more material coming in the future.
 
 
 [^1]: Azalee Bostroem, Trevor Bekolay, and Valentina Staneva (eds):  
